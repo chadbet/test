@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Chad/Downloads/CodeChallenge/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Chad/Downloads/CodeChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3308d92e840910fe1e4d7e7d4a8fe351ba34c666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chad/Downloads/CodeChallenge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beb88781b3be9f820dd5fb54ca2043ef3168bcfb">
+        <dex dex="/Users/Chad/Downloads/CodeChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f23771d64d7f342295090b0be98bbba32b77fd94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chad/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Chad/Downloads/CodeChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_3def4ef9c28ea29c988c07e528b2a5f334f93902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chad/.android/build-cache/50d0e21e2ee00e25e6fd33a1e6ebd18d1eff504b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Chad/Downloads/CodeChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_009c40e0e5768fbb6916145c1fe8533f5f3490e2/classes.dex" />
+    </item>
+
+</items>

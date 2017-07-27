@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/horizontal_margin_normal"
+        android:layout_marginRight="@dimen/horizontal_margin_normal"
+        >
+
+        <ImageView
+            android:id="@+id/row_icon"
+            android:layout_width="@dimen/square_icon_size"
+            android:layout_height="@dimen/square_icon_size" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/row_tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:textColor="@color/black"
+                android:textSize="@dimen/name_font_size"
+                android:layout_gravity="top|left"
+                />
+
+            <TextView
+                android:id="@+id/row_tv_city_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|left"
+                />
+
+            <TextView
+                android:id="@+id/row_tv_end_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:textSize="@dimen/end_date_font_size"
+                android:textColor="@color/black"
+                android:layout_gravity="bottom|left"
+                />
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="#000" />
+
+
+</LinearLayout>

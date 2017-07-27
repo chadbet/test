@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="horizontal_margin_normal">8dp</dimen>
+    <dimen name="horizontal_margin_large">24dp</dimen>
+    <dimen name="square_icon_size">100dp</dimen>
+
+    <dimen name="name_font_size">24dp</dimen>
+    <dimen name="end_date_font_size">16dp</dimen>
+</resources>
