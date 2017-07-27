@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private String state;
     private String iconURL;
 
-    private final String URL = "https://guidebook.com/service/v2/upcomingGuides/";
+    private final String URL = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
